@@ -17,7 +17,7 @@ Esta hoja de vida presenta mis habilidades, experiencia profesional y proyectos 
 
 El sitio está disponible en:  
 👉 **[https://JLM2129.github.io/hoja-de-vida](https://JLM2129.github.io/hoja-de-vida)**  
-(Si aún no se ve, espera unos minutos después de activar GitHub Pages en la configuración del repositorio.)
+
 
 ## 🛠️ Tecnologías utilizadas
 
